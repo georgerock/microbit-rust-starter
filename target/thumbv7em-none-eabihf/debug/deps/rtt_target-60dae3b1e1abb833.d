@@ -1,0 +1,10 @@
+/Users/cosmageorge/workspace/rust/embedded/microbit/microbit-project-template/target/thumbv7em-none-eabihf/debug/deps/librtt_target-60dae3b1e1abb833.rmeta: /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/lib.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/init.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/rtt.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/print.rs
+
+/Users/cosmageorge/workspace/rust/embedded/microbit/microbit-project-template/target/thumbv7em-none-eabihf/debug/deps/librtt_target-60dae3b1e1abb833.rlib: /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/lib.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/init.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/rtt.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/print.rs
+
+/Users/cosmageorge/workspace/rust/embedded/microbit/microbit-project-template/target/thumbv7em-none-eabihf/debug/deps/rtt_target-60dae3b1e1abb833.d: /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/lib.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/init.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/rtt.rs /Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/print.rs
+
+/Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/lib.rs:
+/Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/init.rs:
+/Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/rtt.rs:
+/Users/cosmageorge/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.3.1/src/print.rs:

@@ -1,0 +1,1 @@
+/Users/cosmageorge/workspace/rust/embedded/microbit/microbit-project-template/target/thumbv7em-none-eabihf/debug/rtt-check: /Users/cosmageorge/workspace/rust/embedded/microbit/microbit-project-template/src/main.rs

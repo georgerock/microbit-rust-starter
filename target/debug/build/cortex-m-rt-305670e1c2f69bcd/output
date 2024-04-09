@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/cosmageorge/workspace/rust/embedded/microbit/microbit-project-template/target/debug/build/cortex-m-rt-305670e1c2f69bcd/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in
